@@ -1,0 +1,15 @@
+{
+  "name": "play-tube",
+  "version": "1.0.0",
+  "description": "a youtube clone by chai aur code",
+  "keywords": [
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Khan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
